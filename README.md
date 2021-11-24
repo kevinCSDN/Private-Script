@@ -1,4 +1,4 @@
-﻿### 说明 :
+﻿### 说明 :ql repo https://github.com/Ariszy/Private-Script.git "JD"
 
 * 部分搬运和同步更新大佬脚本，不负责维护脚本.
 
